@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> <p><em> Hola, Soy Nicolás Friz 👋 </em></p></h1>
 
 <!--
 **niFrizP/niFrizP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
