@@ -3,7 +3,10 @@
 <!--
 **niFrizP/niFrizP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niFrizP)](https://github.com/anuraghazra/github-readme-stats)
+<p><img  src="https://github-readme-stats.vercel.app/api?username=niFrizP&count_private=true&show_icons=true&theme=tokyonight&locale=es&include_all_commits=true&count_private=true" alt="niFrizP" /></p>
+
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=niFrizP&langs_count=8&layout=compact&theme=tokyonight&locale=es&include_all_commits=true&count_private=true" alt="niFrizP" /></p>
+
 
 Here are some ideas to get you started:
 
