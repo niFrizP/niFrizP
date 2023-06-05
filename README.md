@@ -6,7 +6,7 @@
 </h3>
 <h2 align="center"> Bienvenido a mi Perfil de GitHub.</h2>
 
-- ✨ _Mejorando y aprendiendo cada dia mas_ ✨
+- ✨ _Mejorando y aprendiendo cada día más_ ✨
 - _Aprendiendo y mejorando actualmente: **NodeJS ** , **TypeScript** , **C#** , **Python** y **PHP**_
 - _¿Como contactarme? **ni.frizp@gmail.com**_
 
@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/nicolasfrizpereira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/linked-in-alt.svg" alt="Linked in" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Mis estadisticas:</h3>
+<h3 align="center">Mis estadísticas:</h3>
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=niFrizP&langs_count=8&layout=compact&theme=tokyonight&locale=es&include_all_commits=true&count_private=true" alt="niFrizP" />
 <img  src="https://github-readme-stats.vercel.app/api?username=niFrizP&count_private=true&show_icons=true&theme=tokyonight&locale=es&include_all_commits=true&count_private=true" alt="niFrizP" />
