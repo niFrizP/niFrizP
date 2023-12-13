@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p><em> Hola, Soy Nicolás Friz 👋 </em></p>
+  <p><em> ✨ Hola, Soy Nico Friz 👋 ✨ </em></p>
 </h1>
 <h3 align="center">
 
