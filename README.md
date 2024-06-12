@@ -7,7 +7,7 @@
 <h2 align="center"> Bienvenido a mi Perfil de GitHub.</h2>
 
 - ✨ _Mejorando y aprendiendo cada día más_ ✨
-- _Aprendiendo y mejorando actualmente: **NodeJS** , **TypeScript** , **C#** , **Python** y **PHP**_
+- _Aprendiendo y mejorando actualmente: **NodeJS** , **TypeScript** , **Python** y **PHP**_
 - _¿Como contactarme? **ni.frizp@gmail.com**_
 
 <h3 align="center">Comuniquémonos:</h3>
